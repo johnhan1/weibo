@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+h1,p{
+    text-align: center;
+}
+/*header*/
+div.navbar{
+    margin-bottom: 0;
+}
+#logo{
+    float: left;
+    display: block;
+    height: 52px;
+    line-height: 52px;
+    text-decoration: none;
+    font-size: 1.7em;
+    color: #ffffff;
+}
+#content{
+    margin-top: 100px;
+}
+/*footer*/
+footer{
+    margin-top: 65px;
+    padding-top: 5px;
+    border-top: 1px solid #eaeaea;
+    font-size: 12px;
+}
+footer a{
+    color: #555;
+    font-weight: 700;
+}
+footer a:hover{
+    color: #333;
+}
+footer nav>a {
+    margin-left: 10px;
+}
+footer nav>ul{
+    float: right;
+}
+
