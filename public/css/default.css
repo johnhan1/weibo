@@ -22,6 +22,11 @@ div.navbar{
 #content{
     margin-top: 100px;
 }
+/*content*/
+section{
+    text-align: center;
+}
+
 /*footer*/
 footer{
     margin-top: 65px;
